@@ -71,7 +71,7 @@ werkzeug
 
 ---
 
-**Usage**
+## Usage
 
 1. Run the Flask application:
 python src/face_detection.py
